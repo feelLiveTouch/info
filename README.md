@@ -1,2 +1,2 @@
-# info
-edb
+app	：21008274
+secrets	：b986b4bb41fe0a894a523595d7ac1729
